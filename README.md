@@ -1,13 +1,10 @@
 # The Innovator Jr. Website
 
-Welcome to the official repository for **The Innovator Jr.**, the student publication of Far Eastern University - Diliman! This site is where our voices unite through ink and insight, bringing you the latest news, features, and stories that matter to our campus and community.
+This repository contains **The Innovator Jr. Website**, the student publication of Far Eastern University - Diliman. This site is where we upload  latest news, features, and stories that matter to our campus and community.
 
 ---
 
-## 🌟 What is The Innovator Jr.?
-
-The Innovator Jr. is more than just a website—it's a living, breathing platform for student journalism, creativity, and campus spirit. Here, you’ll find:
-
+## Sections:
 - **News**: Timely updates on campus and community events
 - **Editorials**: Thought-provoking opinions and commentary
 - **Features**: In-depth stories, profiles, and creative pieces
@@ -16,11 +13,10 @@ The Innovator Jr. is more than just a website—it's a living, breathing platfor
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 - **HTML5 & CSS3**: Modern, responsive, and accessible design
 - **Vanilla JavaScript**: Dynamic article loading, search, and interactive UI
-- **No frameworks required**: Just open and go!
 
 ---
 
@@ -34,15 +30,6 @@ pages/          # All site pages (about, articles, categories, media, etc.)
 public/         # Publication images, placeholders, and public assets
 index.html      # Home page
 ```
-
----
-
-## 🚀 Getting Started
-
-1. **Clone or Download** this repository.
-2. **Open `index.html`** in your favorite browser. No build steps, no dependencies—just pure web!
-3. **Browse** the latest stories, explore categories, and check out our digital magazine and newspaper.
-
 ---
 
 ## ✍️ How It Works
@@ -54,27 +41,9 @@ index.html      # Home page
 
 ---
 
-## 🤝 Contributing / Joining
-
-Are you a student, writer, artist, or coder who wants to make a difference? **Join our JOURNey!**
-
-- Visit [`pages/about/join-us.html`](pages/about/join-us.html) for details on how to become part of the publication.
-- Suggest improvements, report bugs, or submit pull requests right here on GitHub.
-
----
-
-## 📣 Connect With Us
+## Connect With Us via:
 
 - [Facebook](https://facebook.com/FEUDilimanIJR/)
 - [Instagram](https://instagram.com/innovatorjr/)
 - Email: innovatorjr@feudiliman.edu.ph
 
----
-
-## 📝 License
-
-This project is for educational and non-commercial use by the FEU Diliman community. All content belongs to The Innovator Jr. and its contributors.
-
----
-
-> **Our voices shall unite through ink and insights.**
